@@ -29,7 +29,6 @@ header p {
     font-size: 30px;
     color: #145434;
     font-weight: 900; /* Küldtem neki a bold-ot, de nem akart vastagodni :-/ */
-    padding-left: 20px;
     padding: 10px 10px 10px 20px;
 }
 
