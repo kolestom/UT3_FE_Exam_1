@@ -4,7 +4,7 @@
     font-family: 'Space Grotesk', sans-serif;
 }
 
-body{
+main{
     height: 100vh;
     display: flex;
     align-items: center;
@@ -83,7 +83,7 @@ button {
 button span {
     position: absolute;
     right: 4px;
-    bottom: 4px;
+    bottom: 6px;
 }
 .text{
     color: #ffeedf;
